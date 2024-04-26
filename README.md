@@ -10,7 +10,7 @@ Différents niveaux de difficulté pour l'IA.
 Interface utilisateur conviviale et graphismes agréables.
 Possibilité de personnaliser le nombre d'allumette initial et le nombre d'allumette à retirer.
 
-Plongez dans ce jeu classique de stratégie et de tactique, affinez votre réflexion et défiez vos amis pour savoir qui sera le maître des allumettes !
+Plongez dans ce jeu classique de stratégie et de tactique, affinez votre réflexion et défiez vos amis pour savoir qui sera le maître des allumettes ! A télécharger [ici](https://github.com/Zeyhabib03/Jeu_Allumette/releases/tag/v0.1)
 
 # Contributeurs
 Zeinab Habib
