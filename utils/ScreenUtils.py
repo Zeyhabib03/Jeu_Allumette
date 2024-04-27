@@ -1,9 +1,3 @@
-# Nom du fichier: ScreenUtil.py
-# Auteur(s): Thomas PROVOST
-# Objectif: Utilitaire pour créer des fenêtres Pygame
-# Date dernière modification: 25/01/2021
-# Version: 1.3
-
 import pygame
 
 def nullEvent():
